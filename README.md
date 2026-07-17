@@ -6,13 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA6F7&center=true&vCenter=true&width=640&lines=Machine+Learning+Engineer+Intern+%40+Arch+Technologies;BS+Software+Engineering+%40+University+of+Sargodha;Building+AI-powered+mobile+%26+full-stack+apps;Flutter+%7C+FastAPI+%7C+ONNX+%7C+LangGraph)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaeem-mughal)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaeembusinessinfo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaeemmughal)
 
 </div>
 
----
 
 ### 🚀 About Me
 
@@ -23,7 +22,6 @@ I'm a 5th-semester **BS Software Engineering** student at the **University of Sa
 - 💼 Internship deliverables span regression/classification fundamentals to full agentic pipelines
 - ⚡ Fun fact: I like turning every ML notebook into a real, usable app
 
----
 
 ### 🛠️ Tech Stack
 
@@ -62,7 +60,6 @@ I'm a 5th-semester **BS Software Engineering** student at the **University of Sa
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
 
 ### 📌 Featured Projects
 
@@ -79,7 +76,6 @@ I'm a 5th-semester **BS Software Engineering** student at the **University of Sa
 | **[Voice-Attendance-Calling-System](https://github.com/zaeemmughal/Voice-Attendece-Calling-System)** | 🎤 Voice-enabled attendance system with adjustable speech rate, volume control, and multiple calling modes | ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square) |
 | **[ResuMate](https://github.com/zaeemmughal/ResuMate)** | 📄 AI-powered app that generates clean, professional resumes tailored to your inputs in seconds | ![](https://img.shields.io/badge/-Flutter-02569B?style=flat-square) ![](https://img.shields.io/badge/-Dart-0175C2?style=flat-square) |
 
----
 
 ### 📈 GitHub Stats
 
@@ -103,8 +99,6 @@ I'm a 5th-semester **BS Software Engineering** student at the **University of Sa
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaeemmughal&theme=tokyo-night&hide_border=true)
 
 </div>
-
----
 
 <details>
 <summary>🎓 Certifications</summary>
@@ -134,12 +128,8 @@ I'm a 5th-semester **BS Software Engineering** student at the **University of Sa
 
 </details>
 
----
-
 <div align="center">
 
 💡 *"Turning ML notebooks into real, usable products — one app at a time."*
 
 </div>
- 
- 
