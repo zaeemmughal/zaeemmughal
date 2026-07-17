@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-I'm a 5th-semester **BS Software Engineering** student at the **University of Sargodha**, currently working as a **Machine Learning Engineer Intern at Arch Technologies** (remote). I build things across the full stack — from training ML models and shipping them behind FastAPI backends, to building native Android experiences in Flutter and Kotlin.
+I'm a 6th-semester **BS Software Engineering** student at the **University of Sargodha**, currently working as a **Machine Learning Engineer Intern at Arch Technologies** (remote). I build things across the full stack — from training ML models and shipping them behind FastAPI backends, to building native Android experiences in Flutter and Kotlin.
 
 - 🔭 Currently building an **Android on-screen translator** (Flutter + native Kotlin, ML Kit OCR, floating bubble overlay) and a **Rubik's Cube solver app** (Flutter + FastAPI/ONNX cube-state detection)
 - 🌱 Currently deepening skills in **Machine Learning & AI** (regression, EDA, model building)
