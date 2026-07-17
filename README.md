@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA6F7&center=true&vCenter=true&width=640&lines=Machine+Learning+Engineer+Intern+%40+Arch+Technologies;BS+Software+Engineering+%40+University+of+Sargodha;Building+AI-powered+mobile+%26+full-stack+apps;Flutter+%7C+FastAPI+%7C+ONNX+%7C+LangGraph)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA6F7&center=true&vCenter=true&width=640&lines=Machine+Learning+Intern+%40+Arch+Technologies;BS+Software+Engineering+%40+University+of+Sargodha;Building+AI-powered+mobile+%26+full-stack+apps;Flutter+%7C+FastAPI+%7C+ONNX+%7C+LangGraph)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaeem-mughal)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaeembusinessinfo@gmail.com)
