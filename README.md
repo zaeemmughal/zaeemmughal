@@ -81,8 +81,6 @@ I'm a 6th-semester **BS Software Engineering** student at the **University of Sa
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaeemmughal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
-<div align="center">
-
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaeemmughal&theme=tokyo-night&hide_border=true)
 
 </div>
