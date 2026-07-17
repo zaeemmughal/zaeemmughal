@@ -1,8 +1,8 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA6F7,50:7F52FF,100:EE4C2C&height=250&section=header&text=Muhammad%20Zaeem%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Software%20Engineer%20%7C%20Android%20Developer&descSize=18&descAlignY=58&animation=twinkling" alt="header" width="100%" />
+</div>
 
-# Hi, I'm Muhammad Zaeem 👋
-
-### Machine Learning Engineer · Software Engineer · Android Developer
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA6F7&center=true&vCenter=true&width=640&lines=Machine+Learning+Engineer+Intern+%40+Arch+Technologies;BS+Software+Engineering+%40+University+of+Sargodha;Building+AI-powered+mobile+%26+full-stack+apps;Flutter+%7C+FastAPI+%7C+ONNX+%7C+LangGraph)](https://git.io/typing-svg)
 
@@ -11,7 +11,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaeemmughal)
 
 </div>
-
 
 ### 🚀 About Me
 
@@ -81,11 +80,16 @@ I'm a 5th-semester **BS Software Engineering** student at the **University of Sa
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=zaeemmughal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaeemmughal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaeemmughal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
 </div>
 
 <div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=zaeemmughal&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -94,6 +98,7 @@ I'm a 5th-semester **BS Software Engineering** student at the **University of Sa
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaeemmughal&theme=tokyo-night&hide_border=true)
 
 </div>
+
 
 <details>
 <summary>🎓 Certifications</summary>
@@ -123,8 +128,13 @@ I'm a 5th-semester **BS Software Engineering** student at the **University of Sa
 
 </details>
 
+
 <div align="center">
 
 💡 *"Turning ML notebooks into real, usable products — one app at a time."*
 
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA6F7,50:7F52FF,100:EE4C2C&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="footer" width="100%" />
 </div>
